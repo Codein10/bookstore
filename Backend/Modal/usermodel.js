@@ -8,6 +8,7 @@ const userSchema=mongoose.Schema({
         type:String,
         required:true,
         unique:true,
+        // "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books…"
     },
     password:{
         type:String,

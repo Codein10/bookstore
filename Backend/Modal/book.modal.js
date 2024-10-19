@@ -5,7 +5,8 @@ const bookSchema=mongoose.Schema({
         price:Number,
         category:String,
         Image:String,
-        title:String
+        title:String,
+        pdf:String
 })
 const Book=mongoose.model("Book",bookSchema);
 export default Book;
