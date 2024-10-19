@@ -20,10 +20,13 @@ function course() {
     <>
       <div className="max-w-screen-2xl container mx auto md:px-20 px-4">
         <div className=" items-center justify-center text-center ">
+          <div>
           <h1 className=" mt-28 text-2xl md:text-4xl">
             We're delighted to have you{" "}
             <span className="text-pink-500">Here !</span>
           </h1>
+          </div>
+         
           <p className="mt-12">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. At
             recusandae unde animi, ipsa repellat rem excepturi quas

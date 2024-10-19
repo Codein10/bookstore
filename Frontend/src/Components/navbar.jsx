@@ -102,7 +102,7 @@ const[authuser,setauthuser]=useauth()
               <ul className="menu menu-horizontal px-1">{navitems}</ul>
             </div>
             <div className="hidden md:block">
-              <label className=" px-3 py-2 boder rounded-md flex items-center gap-2">
+              <label className=" px-3 py-2 border rounded-md flex items-center gap-2">
                 <input
                   type="text"
                   className="grow outline-none bg-pink-100 dark:bg-slate-900 dark:text-white text-xl "
